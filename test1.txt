@@ -1,0 +1,10 @@
+ djdssdj
+ Volume Serial Number is A229-B1A3
+
+ Directory of C:\Users\sis\Desktop\My Project
+
+06/30/2020  05:30 PM    <DIR>          .
+06/30/2020  05:30 PM    <DIR>          ..
+06/30/2020  05:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  37,330,509,824 bytes free
